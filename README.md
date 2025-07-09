@@ -1,2 +1,1 @@
-# NLPAiAutomationDevX
-Advanced NLPAiAutomationDevX project
+.
